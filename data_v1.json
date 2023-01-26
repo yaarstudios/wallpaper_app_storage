@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Productivity",
+      "apps": [
+        {
+          "name": "Google Calendar",
+          "icon_link": "https://www.google.com/calendar/images/google-calendar.png",
+          "link": "https://calendar.google.com"
+        },
+        {
+          "name": "Todoist",
+          "icon_link": "https://d2r1vs3d9006ap.cloudfront.net/s3_images/1724592/Todoist_icon_large.png?1557989851",
+          "link": "https://todoist.com"
+        },
+        {
+          "name": "Evernote",
+          "icon_link": "https://www.evernote.com/redesign/global/img/favicon-152.png",
+          "link": "https://www.evernote.com"
+        }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "apps": [
+        {
+          "name": "Facebook",
+          "icon_link": "https://www.facebook.com/images/fb_icon_325x325.png",
+          "link": "https://www.facebook.com"
+        },
+        {
+          "name": "Twitter",
+          "icon_link": "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png",
+          "link": "https://twitter.com"
+        },
+        {
+          "name": "Instagram",
+          "icon_link": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png",
+          "link": "https://www.instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "apps": [
+        {
+          "name": "Netflix",
+          "icon_link": "https://cdn.vox-cdn.com/thumbor/u3xR6NzU6YpU6hO8jKdzwZNUJ1s=/0x0:640x360/920x613/filters:focal(269x138:371x240):format/jpg)/cdn.vox-cdn.com/assets/13080804/Netflix_App_Icon.jpg",
+          "link": "https://www.netflix.com"
+        },
+        {
+          "name": "Spotify",
+          "icon_link": "https://www.spotify.com/favicon.ico",
+          "link": "https://www.spotify.com"
+        },
+        {
+          "name": "YouTube",
+          "icon_link": "https://www.youtube.com/favicon.ico",
+          "link": "https://www.youtube.com"
+        }
+      ]
+    }
+  ]
+}
