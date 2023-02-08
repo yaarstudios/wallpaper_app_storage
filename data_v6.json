@@ -89,6 +89,51 @@
           "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en_IN"
         }
       ]
+    },
+    {
+      "name": "Shopping",
+      "apps": [
+        {
+          "name": "Amazon",
+          "icon_link": "https://play-lh.googleusercontent.com/-bKVv7znUY-sU5fTgDLa8XSGa-G7YWNOdYUsxoeFKH1BUF7PYGB2sYS1oTFKmEbXtpdM=s48-rw",
+          "link": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Flipkart",
+          "icon_link": "https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s48-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en_IN&gl=US"
+        },
+        {
+          "name": "eBay",
+          "icon_link": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E=s48-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.ebay.mobile&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Myntra",
+          "icon_link": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=s96-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Snapdeal",
+          "icon_link": "https://play-lh.googleusercontent.com/mus3LmDNKHikDOJHIoyaOuYO_K_TgasrHKKKWLQCvksn6vRN32rNN9PYhwptrFWwmnc=w480-h960-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.snapdeal.main&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Paytm Mall",
+          "icon_link": "https://play-lh.googleusercontent.com/-UPqVoSxCKPdC2wT4nuZXUW7Lo7p07Ee4kF5Ak1zTSCzMbQY0OjqJL4DUJdTLtbfv5s=s96-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.paytmmall&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Walmart Shopping & Grocery",
+          "icon_link": "https://play-lh.googleusercontent.com/nckECUuaqv8rJllZ3CIvOJxxBnqe0TISPy_X-9B3U8nM4rst1Nr0eixKZlXW5fKyiTsf=w480-h960-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.walmart.android&hl=en_IN&gl=US"
+        },
+        {
+          "name": "Target",
+          "icon_link": "https://play-lh.googleusercontent.com/2CGELmJiSElPwjREp7RvpDDzbnq9bGMGhvOBHkqcHrVPdGjJesHHuzKtC6LkCq-F0Fw=w480-h960-rw",
+          "link": "https://play.google.com/store/apps/details?id=com.target.ui&hl=en_IN&gl=US"
+        }
+      ]
     }
   ]
 }
